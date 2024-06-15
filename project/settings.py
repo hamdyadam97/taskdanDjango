@@ -311,8 +311,7 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'hamdyadam543@gmail.com'
 EMAIL_HOST_PASSWORD = 'dpwp arsg vqjy nmns'
-FIREBASE_API_KEY = "AAAAUWwmEfQ:APA91bGMb8FpxmGMH2g__JnVAPZFcSm5Eix_2f2Mmch0etxDP7oKgxr8e9JzsWJ2-LjOc-k-FRWPdMGFUwWJu8q_qYW0wgVi8IeWE35NgYCPUgDgPGG37nzT1tDxeuVUgalFi5G0b_Ih"
-#
+
 AUTHENTICATION_BACKENDS = (
 
     'django.contrib.auth.backends.ModelBackend',
